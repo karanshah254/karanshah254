@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on development tools<br>👯 I’m looking to collaborate on an open source projects<br>🌱 I’m currently learning Java & Development
+🔭 I’m currently working on development tools<br>👯 I’m looking to collaborate on an open source projects<br>🌱 I’m currently learning Java, Python & Development
 
 
 ## 🌐 Socials:
