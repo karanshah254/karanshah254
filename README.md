@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Devops.<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Angular, GenAI.<br>💬 Ask me about MERN, C, Python, Java.<br>⚡ I think I am funny.
+🔭 I’m currently working on Angular & Spring Boot projects.<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning GenAI, AI Agents.<br>💬 Ask me about MERN, C, Python, Java, React and Angular.<br>⚡ I think I am funny.
 
 
 ## 🌐 Socials:
